@@ -47,8 +47,10 @@ flutter pub get
 flutter build apk --release       # APK in build/app/outputs/flutter-apk/app-release.apk
 ```
 
+In alternativa, con GitHub: carica il progetto in un repository e avvia il workflow **Compila APK** (scheda *Actions*, oppure crea un tag `v1.0.0`); l'APK compare tra gli artefatti del workflow.
+
 Note:
-- L'APK di release è firmato con la chiave di debug: va bene per l'installazione diretta, non per il Play   Store. Per pubblicare serve una propria chiave di firma ([guida](https://docs.flutter.dev/deployment/android)).
+- L'APK di release è firmato con la chiave di debug e va bene per l'installazione diretta.
 - L'icona è quella predefinita di Flutter; puoi sostituirla, ad esempio con `flutter_launcher_icons`.
 - Se `flutter build` segnala errori dovuti alla versione di Flutter, apri una segnalazione o correggi.
 
@@ -72,10 +74,11 @@ Formato di `questions.json`: per ogni domanda `id`, `section` (A–E), `subsecti
 
 ## Licenza
 
-Il **codice** dell'app è software libero, distribuito con licenza **GNU GPL versione 3**, vedi il file [`LICENSE`](LICENSE). Copyright (C) 2026 brunitika.ch. Nessuna garanzia.
+Il **codice** dell'app è software libero, distribuito con licenza **GNU GPL versione 3**, vedi il file [`LICENSE`](LICENSE). Copyright (C) 2026 Bruno Minotti (brunitika.ch). Nessuna garanzia.
 
-Le **domande e le immagini** del questionario (cartelle `assets/data` e `assets/images`) provengono dal questionario 07.2026 della Rete di formazione per pescatori e **non sono coperte dalla GPL**: restano di proprietà dei rispettivi titolari (https://www.formazione-pescatori.ch/). Le risposte corrette sono state determinate dagli autori dell'app.
+Le **domande e le immagini** del questionario (cartelle `assets/data` e `assets/images`) provengono dal questionario 07.2026 della Rete di formazione per pescatori e **non sono coperte dalla GPL**: restano di proprietà dei rispettivi titolari (https://www.formazione-pescatori.ch/). Le risposte corrette sono state determinate dall'autore dell'app.
 
 ## Disclaimer
 
-Quiz SaNa ITA è un'app indipendente e non ufficiale, realizzata a scopo di studio. Non è affiliata, approvata né sostenuta dalla Rete di formazione per pescatori (Netzwerk Anglerausbildung / Réseau de formation des pêcheurs) né da alcuna autorità federale o cantonale. Le risposte potrebbero contenere errori e le norme sulla pesca variano da Cantone a Cantone: consulta sempre la regolamentazione cantonale in vigore. L'app non raccoglie né trasmette dati personali. Il software è fornito senza alcuna garanzia, come previsto dalla GNU GPL v3. Claude.ai è stato utilizzato per produrre e correggere il codice sorgente.
+Quiz SaNa ITA è un'app indipendente e non ufficiale, realizzata a scopo di studio. Non è affiliata, approvata né sostenuta dalla Rete di formazione per pescatori (Netzwerk Anglerausbildung / Réseau de
+formation des pêcheurs) né da alcuna autorità federale o cantonale. Le risposte potrebbero contenere errori e le norme sulla pesca variano da Cantone a Cantone: consulta sempre la regolamentazione cantonale in vigore. L'app non raccoglie né trasmette dati personali. Il software è fornito senza alcuna garanzia, come previsto dalla GNU GPL v3. Claude.ai è stato utilizzato per produrre e correggere il codice sorgente.
