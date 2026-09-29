@@ -1,0 +1,1962 @@
+{
+ "source": "Netzwerk Anglerausbildung - Questionario 07.2026",
+ "sections": {
+  "A": "Conoscenza dei pesci (ittiologia)",
+  "B": "Protezione delle acque, protezione delle specie, ecologia",
+  "C": "Attrezzi e tecniche di pesca",
+  "D": "Legislazione e protezione degli animali",
+  "E": "Valorizzazione alimentare delle catture"
+ },
+ "questions": [
+  {
+   "id": 1,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Lucioperca, zander",
+    "Pesce persico",
+    "Tinca"
+   ],
+   "correct": 0,
+   "image": "assets/images/q001.png"
+  },
+  {
+   "id": 2,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Tinca",
+    "Carpa",
+    "Cavedano"
+   ],
+   "correct": 1,
+   "image": "assets/images/q002.png"
+  },
+  {
+   "id": 3,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Pesce persico",
+    "Lucioperca, zander",
+    "Luccio"
+   ],
+   "correct": 2,
+   "image": "assets/images/q003.png"
+  },
+  {
+   "id": 4,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Naso, savetta",
+    "Barbo",
+    "Cavedano"
+   ],
+   "correct": 2,
+   "image": "assets/images/q004.png"
+  },
+  {
+   "id": 5,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Carpa",
+    "Naso, savetta",
+    "Cavedano"
+   ],
+   "correct": 1,
+   "image": "assets/images/q005.png"
+  },
+  {
+   "id": 6,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Tinca",
+    "Gardon",
+    "Abramide"
+   ],
+   "correct": 0,
+   "image": "assets/images/q006.png"
+  },
+  {
+   "id": 7,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Coregone",
+    "Salmerino fontinalis",
+    "Cavedano"
+   ],
+   "correct": 0,
+   "image": "assets/images/q007.png"
+  },
+  {
+   "id": 8,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Siluro",
+    "Anguilla",
+    "Bottatrice"
+   ],
+   "correct": 2,
+   "image": "assets/images/q008.png"
+  },
+  {
+   "id": 9,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Gardon",
+    "Abramide",
+    "Scardola"
+   ],
+   "correct": 1,
+   "image": "assets/images/q009.png"
+  },
+  {
+   "id": 10,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Scardola",
+    "Abramide",
+    "Gardon"
+   ],
+   "correct": 2,
+   "image": "assets/images/q010.png"
+  },
+  {
+   "id": 11,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Barbo",
+    "Cavedano",
+    "Coregone"
+   ],
+   "correct": 0,
+   "image": "assets/images/q011.png"
+  },
+  {
+   "id": 12,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Gardon",
+    "Scardola",
+    "Cavedano"
+   ],
+   "correct": 1,
+   "image": "assets/images/q012.png"
+  },
+  {
+   "id": 13,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Lucioperca, zander",
+    "Pesce persico",
+    "Luccio"
+   ],
+   "correct": 1,
+   "image": "assets/images/q013.png"
+  },
+  {
+   "id": 14,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Trota iridea",
+    "Trota lacustre",
+    "Salmerino alpino"
+   ],
+   "correct": 0,
+   "image": "assets/images/q014.png"
+  },
+  {
+   "id": 15,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Trota lacustre",
+    "Temolo",
+    "Barbo"
+   ],
+   "correct": 1,
+   "image": "assets/images/q015.png"
+  },
+  {
+   "id": 16,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Salmerino alpino",
+    "Coregone",
+    "Trota fario"
+   ],
+   "correct": 2,
+   "image": "assets/images/q016.png"
+  },
+  {
+   "id": 17,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si chiama questo pesce?",
+   "options": [
+    "Temolo",
+    "Trota lacustre",
+    "Coregone"
+   ],
+   "correct": 1,
+   "image": "assets/images/q017.png"
+  },
+  {
+   "id": 18,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Quali pesci fregano specificatamente sulla ghiaia?",
+   "options": [
+    "Trota, temolo, barbo, naso",
+    "Luccio, pesce persico, gardon",
+    "Coregone, scardola, tinca"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 19,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Di cosa necessitano le trote per la frega?",
+   "options": [
+    "Di un fondale di ghiaia sciolta con buona possibilità d’infiltrazione di acqua corrente (ossigenata)",
+    "Di vegetazione densa",
+    "Di una profondità dell’acqua di almeno 80 cm"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 20,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Perché alcune specie di pesci sono protette?",
+   "options": [
+    "Perché hanno un interesse turistico",
+    "Perché ci sono delle specie molto minacciate o a rischio di estinzione",
+    "Perché ci sono delle specie che vanno riservate all’alimentazione dei pesci predatori"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 21,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Ci sono delle specie protette in tutta la Svizzera?",
+   "options": [
+    "No, queste regolamentazioni riguardano solo i Cantoni",
+    "Sì, esse figurano nell’Ordinanza concernente la legge federale sulla pesca",
+    "Le specie protette sono tutte estinte"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 22,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Che cosa bisogna fare quando si cattura un pesce protetto?",
+   "options": [
+    "Togliere l'amo tenendo possibilmente il pesce in acqua, poi rilasciarlo delicatamente",
+    "Tirarlo fuori dall'acqua, fotografarlo e misurarlo precisamente",
+    "Portare con sé il pesce vivo e mostrarlo al guardiapesca"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 23,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Perché i gamberi non indigeni sono un pericolo per le specie indigene svizzere?",
+   "options": [
+    "Perché possono propagare la peste del gambero",
+    "Perché crescono più velocemente",
+    "Perché si nutrono principalmente del fregolo dei pesci"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 24,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Quale specie di gambero non è indigena in Svizzera?",
+   "options": [
+    "Gambero dal segnale",
+    "Gambero dai piedi bianchi",
+    "Gambero di torrente"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 25,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "A quale famiglia appartiene la maggior parte delle nostre specie indigene di piccoli pesci?",
+   "options": [
+    "Percidi",
+    "Salmonidi",
+    "Ciprinidi"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 26,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Cos’è la biodiversità?",
+   "options": [
+    "È la diversità delle specie",
+    "È una malattia dei pesci",
+    "È l’insieme della diversità biologica: spazia dalla diversità genetica delle specie alla diversità degli ecosistemi"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 27,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "In Svizzera, quale specie di pesci è conosciuta per la sua straordinaria diversità di sottospecie?",
+   "options": [
+    "I coregoni",
+    "I lucci",
+    "In Svizzera, non ci sono specie di pesci conosciute per la loro diversità di sottospecie"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 28,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "In quale cantone svizzero esistono numerose specie prettamente locali che non si riscontrano da nessun’altra parte in Svizzera?",
+   "options": [
+    "Cantone Lucerna",
+    "Cantone Neuchâtel",
+    "Cantone Ticino"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 29,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "In che modo una popolazione di pesci si adatta al suo ambiente?",
+   "options": [
+    "Tramite una crescita rapida",
+    "Tramite la selezione naturale e l’evoluzione",
+    "Tramite un’attività ridotta"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 30,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Perché la diversità genetica è importante?",
+   "options": [
+    "La diversità genetica aumenta le capacità di adattamento di fronte ai cambiamenti dell’ambiente",
+    "La diversità genetica dei pesci non ha importanza",
+    "La diversità genetica aumenta la velocità di crescita dei pesci"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 31,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Come si può preservare al meglio la diversità genetica dei pesci?",
+   "options": [
+    "Favorendo la riproduzione naturale",
+    "Attuando il ripopolamento con dei pesci che siano il più possibile grossi",
+    "Tramite la pesca mirata di pesci predatori"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 32,
+   "section": "A",
+   "subsection": "Ittiologia",
+   "text": "Quale specie si riproduce in primavera?",
+   "options": [
+    "Il temolo",
+    "Il coregone",
+    "La trota fario"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 33,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Quale pinna permette al pesce di spingersi velocemente in avanti?",
+   "options": [
+    "La pinna dorsale",
+    "La pinna anale",
+    "La pinna caudale"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 34,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "A cosa servono le squame dei pesci?",
+   "options": [
+    "Offrono una protezione meccanica",
+    "Permettono al pesce di nuotare più velocemente",
+    "Costituiscono una riserva di calcio"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 35,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "A cosa servono le branchie dei pesci?",
+   "options": [
+    "All’odorato, in complemento al naso",
+    "Sono l’organo respiratorio dei pesci",
+    "Servono al riequilibrio della temperatura"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 36,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Quale organo permette al pesce di regolare la profondità?",
+   "options": [
+    "Le branchie",
+    "La vescica natatoria",
+    "La pinna dorsale"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 37,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "A cosa serve la linea laterale dei pesci?",
+   "options": [
+    "A sentire i rumori sott’acqua",
+    "A determinare il sesso",
+    "A percepire l’ambiente circostante"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 38,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Il corpo dell’anguilla è…",
+   "options": [
+    "Privo di squame",
+    "Ricoperto da piccole squame",
+    "Ricoperto da grandi squame"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 39,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Quale salmonide ha una grande pinna dorsale?",
+   "options": [
+    "La trota iridea",
+    "Il temolo",
+    "Il salmerino alpino"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 40,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Quale pesce non ha la vescica natatoria?",
+   "options": [
+    "Lo scazzone",
+    "La sanguinerola",
+    "Il gobione"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 41,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Quale fra questi pesci possiede una bocca infera (posta verso il basso)?",
+   "options": [
+    "Naso, savetta",
+    "Alborella",
+    "Trota"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 42,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Come si presenta la bocca del pesce persico?",
+   "options": [
+    "Senza denti",
+    "Con alcuni denti grossi",
+    "Con molti denti piccoli"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 43,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Cosa succede quando si fa risalire molto velocemente un pesce da una grande profondità?",
+   "options": [
+    "La sua vescica natatoria aumenta di volume (si espande)",
+    "La sua vescica natatoria diminuisce di volume",
+    "Il cuore del pesce smette di battere, per questo non è più necessario ucciderlo secondo le regole, dopo averlo catturato"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 44,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "A quale famiglia di pesci appartengono quelli che possiedono una pinna adiposa?",
+   "options": [
+    "Salmonidi",
+    "Percidi",
+    "Ciprinidi"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 45,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Dove preferiscono procurarsi il cibo i pesci dotati di bocca infera?",
+   "options": [
+    "In superficie",
+    "Sul fondale",
+    "In acqua aperta"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 46,
+   "section": "A",
+   "subsection": "Anatomia",
+   "text": "Qual è il vantaggio dei pesci che possiedono un corpo a forma di freccia, come il luccio?",
+   "options": [
+    "Possono raggiungere grandi velocità su corte distanze",
+    "Sembrano pericolosi e quindi hanno pochi nemici",
+    "Possono camuffarsi meglio nei canneti"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 47,
+   "section": "A",
+   "subsection": "Malattie dei pesci",
+   "text": "Delle ferite alla pelle possono provocare la morte del pesce?",
+   "options": [
+    "No, provocano unicamente qualche infiammazione",
+    "Sì quando sono importanti, aumentano fortemente il rischio di infezione",
+    "No, l'acqua ha un effetto protettore dai vari agenti patogeni"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 48,
+   "section": "A",
+   "subsection": "Malattie dei pesci",
+   "text": "Dove bisogna portare i pesci che si sospetta siano malati?",
+   "options": [
+    "Al laboratorio più vicino",
+    "Al servizio cantonale della pesca",
+    "All’Ufficio federale di veterinaria"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 49,
+   "section": "A",
+   "subsection": "Malattie dei pesci",
+   "text": "In quali acque la malattia renale proliferativa (MRP) viene riscontrata più di frequente?",
+   "options": [
+    "Nei laghi",
+    "Nei riali freddi di montagna",
+    "Nei fiumi più caldi dell’Altopiano svizzero"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 50,
+   "section": "A",
+   "subsection": "Malattie dei pesci",
+   "text": "Perché bisogna bagnarsi le mani prima di toccare un pesce vivo?",
+   "options": [
+    "Perché lo shock termico potrebbe ucciderlo",
+    "Per non danneggiare lo strato di muco protettivo",
+    "Il rischio di trasmissione di micosi è meno elevato con le mani bagnate"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 51,
+   "section": "A",
+   "subsection": "Malattie dei pesci",
+   "text": "Cosa possono fare i pescatori per rallentare la propagazione di alcune malattie (per es. Saprolegnia parasitica)?",
+   "options": [
+    "I pescatori non possono fare niente, le malattie dei pesci riguardano solamente l’Ufficio federale di veterinaria",
+    "Devono pulire accuratamente e lasciare asciugare completamente la loro attrezzatura",
+    "In acque contaminate da una data malattia, devono prelevare anche i pesci protetti"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 52,
+   "section": "A",
+   "subsection": "Malattie dei pesci",
+   "text": "Quali fattori favoriscono l’apparizione di malattie nelle acque correnti?",
+   "options": [
+    "I fattori di stress, come ad esempio le temperature elevate, gli inquinamenti, deflussi discontinui, ecc.",
+    "Delle attrezzature da pesca non trattate con soluzione disinfettante",
+    "L’assenza di antibiotici"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 53,
+   "section": "A",
+   "subsection": "Malattie dei pesci",
+   "text": "In che modo gli agenti patogeni presenti sugli attrezzi e l’equipaggiamento da pesca possono essere uccisi?",
+   "options": [
+    "Tramite trattamento termico, asciugatura o disinfezione di attrezzi ed equipaggiamento",
+    "Con dell’acqua tiepida",
+    "Non funziona nessun metodo"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 54,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "In quale zona piscicola si trovano le sorgenti con acqua fresca e ben ossigenata?",
+   "options": [
+    "Zona del barbo",
+    "Zona della trota",
+    "Zona del temolo"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 55,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Quali caratteristiche cambiano quando si passa da un ruscello a un grande fiume?",
+   "options": [
+    "La pendenza e la velocità della corrente diminuiscono",
+    "Il greto del fiume è formato da ghiaia sempre più grossolana",
+    "La temperatura massima e gli sbalzi di temperatura sono meno elevati"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 56,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Perché i settori di acqua calma sono importanti?",
+   "options": [
+    "I pescatori possono spostarsi più facilmente",
+    "Perché l’acqua si riscalda più velocemente in estate",
+    "Perché offrono un habitat favorevole ai pesci giovani"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 57,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Che cosa favorisce una popolazione di pesci diversificata?",
+   "options": [
+    "Un’agricoltura intensiva in prossimità dei corsi d’acqua che procura molti nutrienti",
+    "Degli habitat variati e diversificati",
+    "Arginature in cemento lungo le rive, per impedire che i pesticidi possano raggiungere il corso d’acqua"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 58,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Qual è la relazione tra la quantità di ossigeno disciolto e la temperatura dell’acqua?",
+   "options": [
+    "Vi è sempre la stessa quantità di ossigeno disciolto, indipendentemente dalla temperatura dell’acqua",
+    "L'acqua calda contiene meno ossigeno disciolto",
+    "L'acqua calda contiene più ossigeno disciolto"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 59,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Quale relazione esiste generalmente tra la quantità di nutrienti e la concentrazione di ossigeno nelle acque profonde dei laghi?",
+   "options": [
+    "I laghi poveri di nutrienti (oligotrofi) sono più ricchi in ossigeno",
+    "I laghi ricchi di nutrienti (eutrofi) sono più ricchi in ossigeno",
+    "Non c'è nessuna relazione tra quantità di nutrienti e concentrazione di ossigeno sul fondo del lago."
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 60,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Quali organismi sono dei produttori nella catena alimentare?",
+   "options": [
+    "Le piante acquatiche",
+    "I molluschi",
+    "I pesci"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 61,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "I pesci mangiano la stessa quantità di cibo nel corso dell’anno?",
+   "options": [
+    "Normalmente mangiano di più durante l’inverno, perché nell’acqua fredda hanno bisogno di più energia per conservare il loro calore corporeo",
+    "Sì",
+    "Normalmente mangiano meno in inverno, perché nell’acqua fredda sono meno attivi e hanno quindi bisogno di meno energia"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 62,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Qual è la ripartizione delle varie classi d'età in una popolazione di pesci naturale e sana?",
+   "options": [
+    "Le differenti età sono rappresentate in egual misura",
+    "Ci sono molti pesci adulti e pochi pesci giovani",
+    "Ci sono molti pesci giovani e pochi pesci adulti"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 63,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "In genere, chi è responsabile di un’appropriata gestione ittica?",
+   "options": [
+    "Il servizio cantonale della pesca",
+    "L'Ufficio federale di veterinaria",
+    "L'Ufficio federale dell'ambiente"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 64,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "In generale per il ripopolamento, i pesci di quale misura danno i migliori risultati?",
+   "options": [
+    "Pochi pesci ma cari, dunque pesci grossi",
+    "Un equilibrio fra diverse misure di pesci giovani (avannotti ed estivali)",
+    "Avannotti ed estivali nati da pesci a crescita rapida"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 65,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Cosa significa l’espressione «i pesci fregano»?",
+   "options": [
+    "I pesci depongono le uova",
+    "I pesci si nutrono attivamente",
+    "I pesci muoiono"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 66,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Come si dovrebbero selezionare i riproduttori da destinare alla produzione di pesci da ripopolamento?",
+   "options": [
+    "Pochi pesci riproduttori, ma belli grandi",
+    "Selezionare non è importante",
+    "I riproduttori devono essere il più numerosi possibile e provenire dai corsi d’acqua che si desidera ripopolare"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 67,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Da dove devono provenire i riproduttori \"ottimali\" da destinare alla produzione di pesci per il ripopolamento?",
+   "options": [
+    "Da acque non locali, allo scopo di ottenere \"sangue nuovo\"",
+    "Da acque nelle quali verrà effettuato il ripopolamento, in modo da non minacciare i ceppi locali che si sono adattati all’ambiente specifico",
+    "Dalla piscicoltura meno cara, per risparmiare soldi"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 68,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Qual è l'obiettivo principale delle misure di protezione?",
+   "options": [
+    "La protezione dei pesci giovani",
+    "La promozione della pesca sportiva",
+    "La protezione dei pesci malati"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 69,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Cosa succede quando viene instaurata una nuova zona di protezione (divieto di pesca)?",
+   "options": [
+    "I pesci grossi proliferano a dismisura",
+    "Si crea un nuovo equilibrio fra le differenti classi d'età",
+    "Le popolazioni ittiche aumentano costantemente"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 70,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Qual è l’obiettivo principale della limitazione nel numero di catture (per es. limite giornaliero)?",
+   "options": [
+    "Un’equa ripartizione delle catture e un utilizzo sostenibile delle risorse ittiche",
+    "Un aumento degli stock ittici",
+    "Una protezione efficace dei pesci giovani"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 71,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Come vengono determinati i periodi di chiusura della pesca?",
+   "options": [
+    "In base ai periodi di riproduzione dei pesci",
+    "Secondo le stagioni dell’anno",
+    "In base ai bisogni dei pescatori"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 72,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Perché la misura minima di cattura è regolamentata?",
+   "options": [
+    "Affinché il pesce non venga prelevato prima che si sia riprodotto",
+    "Perché i pesci troppo piccoli sono difficili da filettare",
+    "Per equilibrare meglio il numero di catture fra i pescatori"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 73,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Si trovano sempre pesci morti in caso di inquinamento cronico delle acque?",
+   "options": [
+    "Sì, è un segno incontestabile",
+    "Non necessariamente",
+    "No, mai"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 74,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Quali azioni vanno intraprese in caso di inquinamento e moria di pesci?",
+   "options": [
+    "Allarmare, raccogliere foto e video, restare a disposizione delle autorità",
+    "Contenere l'acqua inquinata, prelevare i pesci, raccogliere campioni di acqua per l'analisi",
+    "Allarmare, deviare l’acqua inquinata, aggiungere acqua fresca"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 75,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Quali sono i servizi da allarmare in caso di moria di pesci e di inquinamento dell’acqua?",
+   "options": [
+    "Il servizio della pesca, la polizia (in alcuni Cantoni: i pompieri)",
+    "Il gestore della tratta di fiume e il presidente della società di pesca",
+    "L'Ufficio federale dell’ambiente"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 76,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Come è chiamata la valorizzazione dei corsi d’acqua?",
+   "options": [
+    "Consolidamento delle sponde",
+    "Rivitalizzazione",
+    "Cementificazione del fondale"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 77,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "In base all’esperienza, qual è il miglior modo per mantenere delle popolazioni di pesci diversificate?",
+   "options": [
+    "Tramite molti ripopolamenti",
+    "Tramite la rivitalizzazione",
+    "Tramite l’introduzione di specie non indigene"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 78,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Quale problema è causato dallo sfruttamento della forza idraulica?",
+   "options": [
+    "Non c’è abbastanza ghiaia sciolta, perché risulta bloccata nelle dighe di ritenuta",
+    "Nessuno",
+    "C’è troppo materiale detritico"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 79,
+   "section": "B",
+   "subsection": "Protezione delle acque e ecologia",
+   "text": "Per quale motivo in Svizzera sono stati canalizzati e rettificati così tanti corsi d’acqua?",
+   "options": [
+    "Per guadagnare terreni per l’agricoltura, l’industria e l’urbanizzazione",
+    "Per offrire ai pesci migliori condizioni di vita",
+    "In Svizzera praticamente non ci sono corsi d’acqua canalizzati e rettificati"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 80,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Che nodo è usato per collegare due fili?",
+   "options": [
+    "Il nodo UNI",
+    "Il nodo del chirurgo",
+    "Il nodo Clinch"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 81,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "A cosa serve il galleggiante?",
+   "options": [
+    "A delimitare la propria postazione di pesca rispetto agli altri pescatori",
+    "Ad attirare i pesci",
+    "A segnalare quando il pesce abbocca"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 82,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Quali pesci si pescano soprattutto sul fondo?",
+   "options": [
+    "Le carpe, le tinche, i barbi",
+    "I pesci esca",
+    "I carnivori"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 83,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Che tipo di zavorra si usa, generalmente, per la pesca a fondo nelle acque stagnanti?",
+   "options": [
+    "Un galleggiante scorrevole",
+    "Un piombo scorrevole o un piombo con girella",
+    "Un piombo sferico spaccato"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 84,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si pesca a cucchiaino (spinner)?",
+   "options": [
+    "Ponendolo sul fondo",
+    "Recuperando, muovendolo nell’acqua",
+    "Combinandolo ad un galleggiante scorrevole"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 85,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Quali pesci si pescano a traina?",
+   "options": [
+    "I carnivori",
+    "I coregoni",
+    "I ciprinidi"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 86,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Quali pesci si pescano soprattutto con la camolera (asta di ninfe)?",
+   "options": [
+    "Coregoni e pesci persici",
+    "Lucci e trote",
+    "Carpe e tinche"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 87,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Quando le barche da pesca devono esporre una palla bianca?",
+   "options": [
+    "Quando si pesca a spinning",
+    "Quando si pesca da posizione stazionaria",
+    "Quando si pesca a traina"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 88,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Di cosa si nutrono principalmente i ciprinidi?",
+   "options": [
+    "Di piccoli organismi, come le larve, i vermi, i crostacei o di piante acquatiche e alghe",
+    "Di piccoli pesci",
+    "Di paste, boilies"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 89,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Qual è il vantaggio delle esche artificiali?",
+   "options": [
+    "Sono economiche",
+    "Sono più efficaci",
+    "Sono inghiottite meno profondamente dai pesci e quindi diminuiscono le ferite"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 90,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Di cosa si nutrono principalmente i pesci carnivori?",
+   "options": [
+    "Di esche artificiali",
+    "Di piccoli pesci",
+    "Di esche morbide"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 91,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come sono denominati i cucchiaini ondulanti e rotanti, i pesciolini artificiali (wobbler), le esche morbide (twister) ed alcune monture?",
+   "options": [
+    "Esche artificiali da spinning",
+    "Esche metalliche",
+    "Esche dure"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 92,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Con quale esca si pesca in superficie?",
+   "options": [
+    "Mosca secca",
+    "Ninfa",
+    "Streamer"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 93,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Cos’è uno streamer?",
+   "options": [
+    "Un’imitazione di un insetto",
+    "Un’imitazione di una ninfa",
+    "Un’imitazione di un piccolo pesce"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 94,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Cos’è una ninfa?",
+   "options": [
+    "Una larva d’insetto",
+    "Un piccolo pesce",
+    "Un verme d’acqua"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 95,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si scelgono gli attrezzi da pesca?",
+   "options": [
+    "Si pesca ovunque con gli stessi attrezzi",
+    "Si scelgono gli attrezzi in base al luogo di pesca e alla specie di pesce che si vuole catturare",
+    "Si usano esclusivamente attrezzi nuovi di zecca"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 96,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Perché non bisogna usare una lenza troppo fine?",
+   "options": [
+    "Le lenze troppo fini aumentano il rischio di rottura durante il recupero del pesce",
+    "Le lenze fini sono più costose delle lenze di grosso diametro",
+    "I fili troppo fini sono difficili da annodare"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 97,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "È importante il modo di fare i nodi?",
+   "options": [
+    "Sì, i nodi ben fatti sono più resistenti e si sciolgono meno facilmente",
+    "No, se si usa un filo grosso",
+    "No, è sufficiente doppiare i nodi"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 98,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Cosa fa parte dell’attrezzatura, oltre alla canna e al mulinello?",
+   "options": [
+    "Guadino, pinza / slamatore, coltello / forbici, metro / misurapesci, annoccatore",
+    "Si può fare a meno dell’annoccatore e uccidere il pesce con un sasso",
+    "Chi sa prendere un pesce per le branchie non ha bisogno del guadino"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 99,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Chi può usare gli ami con ardiglione?",
+   "options": [
+    "I pescatori oltre i 40 anni",
+    "I pescatori titolari di un attestato di competenza SaNa, laddove la legge cantonale lo autorizza espressamente",
+    "I pescatori minori di anni 20"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 100,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si chiama questa canna?",
+   "options": [
+    "Canna da lancio",
+    "Canna telescopica",
+    "Canna da mosca"
+   ],
+   "correct": 0,
+   "image": "assets/images/q100.png"
+  },
+  {
+   "id": 101,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si chiama questa canna?",
+   "options": [
+    "Canna da lancio",
+    "Canna telescopica",
+    "Canna da mosca"
+   ],
+   "correct": 1,
+   "image": "assets/images/q101.png"
+  },
+  {
+   "id": 102,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si chiama questo mulinello?",
+   "options": [
+    "Mulinello a tamburo fisso / da lancio",
+    "Mulinello per la pesca verticale",
+    "Mulinello moltiplicatore"
+   ],
+   "correct": 0,
+   "image": "assets/images/q102.png"
+  },
+  {
+   "id": 103,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si chiama questa esca artificiale?",
+   "options": [
+    "Cucchiaino rotante (spinner)",
+    "Cucchiaino ondulante",
+    "Pesciolino finto (wobbler)"
+   ],
+   "correct": 0,
+   "image": "assets/images/q103.png"
+  },
+  {
+   "id": 104,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si chiama questa esca artificiale?",
+   "options": [
+    "Esca morbida (twister)",
+    "Ninfa",
+    "Streamer"
+   ],
+   "correct": 0,
+   "image": "assets/images/q104.png"
+  },
+  {
+   "id": 105,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Come si chiama questa esca artificiale?",
+   "options": [
+    "Cucchiaino rotante (spinner)",
+    "Cucchiaino ondulante",
+    "Pesciolino finto (wobbler)"
+   ],
+   "correct": 2,
+   "image": "assets/images/q105.png"
+  },
+  {
+   "id": 106,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Cosa devo fare con un vecchio filo da pesca rovinato?",
+   "options": [
+    "Lasciarlo per terra, il sole lo decomporrà",
+    "Seppellirlo nel letto del fiume",
+    "Portarlo a casa e gettarlo nella pattumiera"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 107,
+   "section": "C",
+   "subsection": "Attrezzi e tecniche di pesca",
+   "text": "Perché bisognerebbe sempre usare un finale di lenza più fine della lenza principale?",
+   "options": [
+    "Perché il pesce lo vede più difficilmente",
+    "Perché i fili di differenti diametri si annodano più facilmente",
+    "Perché in caso di rottura del finale di lenza, il pesce porta con sé solamente questa corta e fine porzione di lenza, aumentando così le sue possibilità di sopravvivere"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 108,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "A quali specie si applicano le disposizioni relative alla protezione degli animali?",
+   "options": [
+    "Solo alle specie protette",
+    "Solo ai salmonidi",
+    "A tutte le specie di pesci"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 109,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "In Svizzera, chi detiene il diritto di pesca?",
+   "options": [
+    "I Comuni",
+    "I Cantoni",
+    "La Confederazione"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 110,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Dove sono regolamentati gli aspetti più importanti della pesca in Svizzera?",
+   "options": [
+    "Nella Legge federale sulla protezione delle acque",
+    "Nella Costituzione federale",
+    "Nella Legge federale sulla pesca"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 111,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Cosa caratterizza un buon pescatore sportivo?",
+   "options": [
+    "Dispone di un'attrezzatura costosa e cattura il maggior numero di pesci possibile",
+    "Si comporta rispettosamente nei confronti dei pesci, secondo la protezione degli animali",
+    "Non si preoccupa della gestione e del mantenimento degli ambienti acquatici"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 112,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Perché le specie di pesci non indigene (invasive) non sono gradite?",
+   "options": [
+    "Perché sono più difficili da catturare",
+    "Perché la loro forte crescita può minacciare le specie indigene",
+    "Perché non sono commestibili"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 113,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Perché bisogna adattare il diametro del filo al tipo di pesce che si intende pescare?",
+   "options": [
+    "Un diametro del filo adatto permette di abbreviare il tempo di recupero e si ha così più riguardo per il pesce",
+    "I fili fini sono meno cari di quelli grossi",
+    "I fili fini permettono di eseguire nodi migliori"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 114,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Nella postazione in cui stai pescando catturi in poco tempo molti pesci che non raggiungono la misura minima legale. Cosa devi fare?",
+   "options": [
+    "Devo cambiare posto perché sto ovviamente pescando in un habitat che ospita giovani pesci",
+    "Continuo a pescare, dove ci sono piccoli pesci c’è anche quello più grosso",
+    "Uso un’esca più grande"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 115,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Quali sono i criteri per scegliere un adeguato luogo di pesca?",
+   "options": [
+    "Più si è lontani dall’acqua, meno i pesci si accorgono della nostra presenza (p. es. da un ponte)",
+    "Luogo poco frequentato dai pesci piccoli e che permette di portare facilmente il pesce a riva",
+    "Non ci sono criteri specifici per scegliere il luogo"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 116,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Perché bisogna ferrare immediatamente quando si pesca con esche naturali?",
+   "options": [
+    "Perché il pesce può rigettare l’esca",
+    "Perché si corre il rischio che il pesce ingoi l’esca troppo profondamente, rendendo difficile la rimozione dell’amo",
+    "Ciò non ha alcun ruolo"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 117,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Perché bisogna abbreviare più che si può il tempo di recupero?",
+   "options": [
+    "Per non sfinire il pesce e provocargli un deficit di ossigeno",
+    "Per diminuire il rischio di rottura del filo",
+    "Per catturare più pesci"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 118,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Cosa fare quando l’amo è infilato molto profondamente nella bocca di un pesce protetto o sottomisura?",
+   "options": [
+    "In ogni caso uccidere il pesce",
+    "Tagliare il finale della lenza il più corto possibile e rimettere il pesce in acqua",
+    "Rimuovere l’amo il più delicatamente possibile"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 119,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Da cosa è protetta la pelle sensibile del pesce?",
+   "options": [
+    "Solo dalle squame",
+    "Dalle squame e dallo strato di muco soprastante",
+    "La pelle dei pesci è robusta e non necessita di alcuna protezione"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 120,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Come tenere il pesce quando si leva l’amo?",
+   "options": [
+    "Ventre adagiato sul palmo della mano, dita sul dorso",
+    "Dorso posato nel palmo della mano, dita sul ventre",
+    "È uguale, tenerlo nel miglior modo possibile"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 121,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Cosa devo fare se posso tenere un pesce catturato?",
+   "options": [
+    "Prendere il pesce, togliere l’amo, quindi ucciderlo",
+    "Prendere il pesce, stordirlo, ucciderlo e poi staccare l’amo",
+    "Prendere il pesce, misurarlo di nuovo e poi ucciderlo"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 122,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Come uccidere correttamente un pesce?",
+   "options": [
+    "Bisogna toglierlo dall’acqua, deporlo a riva e dargli un colpo in testa",
+    "Bisogna dargli un colpo in testa, recidere l’arteria branchiale (dissanguamento) o eviscerarlo immediatamente",
+    "Toglierlo dall’acqua e recidere subito l’arteria branchiale"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 123,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Il pesce muore subito con un colpo alla testa?",
+   "options": [
+    "Sì, se si colpisce almeno 3 volte",
+    "Non sempre, a volte si muove ancora e bisogna dargli un altro colpo",
+    "Per essere sicuri che il pesce sia morto, bisogna recidere l’arteria branchiale (dissanguamento) o eviscerarlo subito"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 124,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Come mantenere correttamente dei pesci vivi per poco tempo dopo la cattura?",
+   "options": [
+    "In recipienti sufficientemente grandi, con un apporto appropriato di ossigeno",
+    "In un panno umido",
+    "In un sacco di plastica pieno d’acqua"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 125,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Per quanto tempo una persona con attestato di competenza SaNa può mantenere vivi dei pesci dopo la cattura?",
+   "options": [
+    "2 ore",
+    "Al massimo fino alla fine della battuta di pesca",
+    "3 settimane"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 126,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Come devo fare per mantenere fresche le mie catture?",
+   "options": [
+    "È possibile solo se tengo i pesci vivi",
+    "Eviscerarle subito, poi conservarle al fresco e al riparo dal sole",
+    "Metterle in un sacchetto di plastica"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 127,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Come si misura un pesce quando si è in dubbio riguardo al raggiungimento della misura minima?",
+   "options": [
+    "Si tiene il pesce fermo finché non si muove più, poi lo si misura",
+    "Lo si misura più volte per essere sicuri della sua dimensione",
+    "In caso di dubbio, si misura con precisione il pesce in acqua e se non raggiunge la misura legale lo si rilascia immediatamente"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 128,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "I pescatori sportivi devono sottostare alle legislazioni federali e cantonali anche in acque private?",
+   "options": [
+    "Sì, valgono anche per le acque private",
+    "No, le acque private hanno le proprie regole",
+    "No, solo alla legislazione federale"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 129,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "In Svizzera quale specie è protetta tutto l’anno?",
+   "options": [
+    "Trota iridea",
+    "Naso, savetta",
+    "Temolo"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 130,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Perché la pesca con amo con ardiglione è proibita (salvo eccezioni cantonali per i detentori di attestato di competenza SaNa)?",
+   "options": [
+    "Perché sono disposizioni scaturite dall’Organizzazione Mondiale della Sanità (OMS)",
+    "Perché l’estrazione di un amo con ardiglione comporta un grande rischio di ferite per il pesce catturato",
+    "La pesca con amo con ardiglione è autorizzata dappertutto"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 131,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "A che condizione si possono rilasciare in acqua dei pesci che hanno raggiunto o oltrepassato la misura legale?",
+   "options": [
+    "Se li avete catturati con l’intenzione di rimetterli in acqua",
+    "Per motivazioni ecologiche",
+    "Quando sono troppo grandi per la padella"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 132,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Come va rilasciato in acqua un pesce che non ha raggiunto la misura legale?",
+   "options": [
+    "Si leva l’amo e si ributta il pesce in acqua il più velocemente possibile",
+    "Non si può rilasciare il pesce, perché in Svizzera esiste un obbligo di cattura",
+    "Si leva l’amo con precauzione, se possibile ancora in acqua; poi si tiene delicatamente il pesce in acqua, con la testa verso la corrente, finché recupera le forze e quindi si allontana nuotando"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 133,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Perché non si deve mai comprimere il corpo di un pesce?",
+   "options": [
+    "Per non ferire gli organi interni, molto sensibili",
+    "Per non rompere la milza",
+    "Per non compromettere la respirazione"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 134,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Bisogna trattare i pesci con la stessa premura che si ha con gli altri vertebrati?",
+   "options": [
+    "No, perché sono animali a sangue freddo",
+    "Sì, bisogna trattarli con la stessa premura",
+    "Ciò è lasciato al giudizio di ogni pescatore"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 135,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Chi può tenere dei pesci vivi dopo la cattura?",
+   "options": [
+    "Ogni detentore di permesso di pesca",
+    "Ogni detentore di attestato di competenza SaNa, laddove le prescrizioni cantonali lo autorizzano",
+    "Chiunque, laddove le prescrizioni cantonali lo autorizzano"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 136,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Si possono usare dei pesci da esca vivi?",
+   "options": [
+    "Mai",
+    "Solo se si possiede un attestato di competenza SaNa e se le prescrizioni cantonali lo autorizzano espressamente",
+    "Sempre, quando si pescano dei carnivori"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 137,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Quale legislazione devo obbligatoriamente consultare prima di iniziare a pescare in un corpo d’acqua?",
+   "options": [
+    "La Costituzione federale",
+    "La Legge federale sulla pesca",
+    "La regolamentazione cantonale in vigore"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 138,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Che cosa bisogna fare prima di manipolare un pesce attaccato alla lenza?",
+   "options": [
+    "Ci si bagna le mani con dell’acqua",
+    "Si rendono le mani ruvide con della sabbia",
+    "Ci si sfrega le mani con del disinfettante"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 139,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "A cosa bisogna fare attenzione quando si vogliono fotografare dei pesci vivi?",
+   "options": [
+    "A fotografare solamente le specie di pesce non minacciate",
+    "A stare il più lontano possibile dall’acqua",
+    "Che il pesce sia fotografato in acqua oppure sollevato brevemente in normale posizione di nuoto"
+   ],
+   "correct": 2,
+   "image": null
+  },
+  {
+   "id": 140,
+   "section": "D",
+   "subsection": "Legislazione e protezione degli animali",
+   "text": "Perché devo fare tutto il possibile per manipolare correttamente i pesci che devono essere rimessi in acqua?",
+   "options": [
+    "Per paura di ricevere una multa",
+    "Perché il pesce è un essere vivente sensibile e perché sopravvivono solo i pesci manipolati correttamente",
+    "Non importa, voglio solo prenderne il più possibile"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 141,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "Perché un pesce catturato deve essere eviscerato il più rapidamente possibile?",
+   "options": [
+    "Così non può più scappare nuotando",
+    "Perché la decomposizione delle viscere rilascia un odore sgradevole e rovina la qualità della carne",
+    "Perché non si devono mangiare le viscere"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 142,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "A cosa bisogna prestare particolare attenzione quando si eviscera un pesce?",
+   "options": [
+    "A non rovinare lo strato di muco",
+    "A non lacerare la vescica biliare, per non rovinare la qualità della carne",
+    "A non lasciar cadere le interiora a terra"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 143,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "Come devo conservare un pesce eviscerato quando continuo a pescare?",
+   "options": [
+    "In un sacco di plastica",
+    "In uno straccio secco o umido o in un cesto di vimini, tenendolo all’ombra e al fresco",
+    "Lo lascio nell’erba"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 144,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "Cosa succede ai pesci conservati correttamente in congelatore ma per troppo tempo?",
+   "options": [
+    "La carne lentamente si secca e diventa immangiabile",
+    "Il pesce può essere conservato in congelatore per quanto tempo si vuole",
+    "Il pesce cambia colore, ma il gusto rimane inalterato"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 145,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "Da cosa si riconosce un pesce avariato (marcio)?",
+   "options": [
+    "Dal muco rinsecchito",
+    "Dalla cavità addominale che rilascia un odore sgradevole e dagli occhi torbidi / spenti",
+    "Posso giudicare lo stato di un pesce solo dall’osservazione delle sue branchie"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 146,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "Le varie specie di pesce possono essere conservate in congelatore tutte per la stessa durata?",
+   "options": [
+    "No, i pesci con carni magre possono rimanere in congelatore per più tempo rispetto ai pesci con carni grasse",
+    "No, i pesci con carni grasse possono rimanere in congelatore per più tempo rispetto ai pesci con carni magre",
+    "Sì, pesci con carni magre e pesci con carni grasse possono rimanere in congelatore per la stessa durata"
+   ],
+   "correct": 1,
+   "image": null
+  },
+  {
+   "id": 147,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "A cosa bisogna prestare attenzione nel momento dello scongelamento del pesce?",
+   "options": [
+    "A scongelarlo in frigorifero coprendolo (odori) e stando attenti che l’acqua di scongelamento non resti in contatto con il pesce",
+    "A scongelarlo lentamente in acqua tiepida",
+    "A scongelarlo coperto, sul bancone della cucina, per tutta la notte"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 148,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "A cosa bisogna prestare attenzione nel momento del congelamento del pesce (destinato ad uso alimentare)?",
+   "options": [
+    "Ad utilizzare un sacchetto di congelazione senza buchi e a chiusura ermetica; annotare la data di congelamento sull’imballaggio",
+    "Ad avvolgere i pesci nella carta alimentare (cellophane) e metterli subito in congelatore",
+    "Ad avvolgere i pesci in carta da cucina e metterli in congelatore"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 149,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "I filetti dei ciprinidi contengono spesso delle lische fini. Come si può rendere questa carne commestibile?",
+   "options": [
+    "Tagliare i filetti in piccoli pezzi e togliere le lische con una pinzetta, oppure tritarli",
+    "Siccome i ciprinidi sono pieni di lische, non li tengo mai",
+    "I ciprinidi non si possono mangiare proprio a causa delle lische"
+   ],
+   "correct": 0,
+   "image": null
+  },
+  {
+   "id": 150,
+   "section": "E",
+   "subsection": "Valorizzazione alimentare delle catture",
+   "text": "Quali caratteristiche permettono di stabilire se un pesce è fresco?",
+   "options": [
+    "Odore di pesce intenso o sgradevole, pelle secca, branchie scolorite",
+    "Odore di pesce intenso o sgradevole, pelle scolorita, branchie appiccicate",
+    "Odore fresco, occhi vividi e umidi, branchie rosse"
+   ],
+   "correct": 2,
+   "image": null
+  }
+ ]
+}
