@@ -46,13 +46,13 @@ Requisiti: [Flutter](https://docs.flutter.dev/get-started/install) (canale stabl
 flutter pub get
 flutter build apk --release       # APK in build/app/outputs/flutter-apk/app-release.apk
 ```
-
 In alternativa, con GitHub: carica il progetto in un repository e avvia il workflow **Compila APK** (scheda *Actions*, oppure crea un tag `v1.0.0`); l'APK compare tra gli artefatti del workflow.
 
 Note:
 - L'APK di release è firmato con la chiave di debug e va bene per l'installazione diretta.
-- L'icona è quella predefinita di Flutter; puoi sostituirla, ad esempio con `flutter_launcher_icons`.
 - Se `flutter build` segnala errori dovuti alla versione di Flutter, apri una segnalazione o correggi.
+
+Sotto "releases" (colonna a destra) potrai altrimenti scaricare direttamente l'applicazione compilata (app-release.apk). Aprendo l'immagine cliccandoci sopra e accettando l'installazione di software da parte di terzi potrai installare direttamente l'app (CAVE: ricevererai probabilmente una notifica che non è sicuro in quanto software di terze parti non riconosciuto).
 
 ## Struttura
 
