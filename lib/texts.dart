@@ -21,7 +21,7 @@ const String kDisclaimer =
 
 const String kLicenseNote =
     'Quiz SaNa ITA (inofficiale)\n'
-    'Copyright (C) 2026 gli autori dell\'app\n\n'
+    'Copyright (C) 2026 Bruno Minotti (brunitika.ch)\n\n'
     'Questo programma è software libero: puoi ridistribuirlo e/o modificarlo secondo i '
     'termini della GNU General Public License pubblicata dalla Free Software Foundation, '
     'versione 3 della Licenza o (a tua scelta) qualsiasi versione successiva.\n\n'
