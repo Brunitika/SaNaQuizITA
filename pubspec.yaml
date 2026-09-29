@@ -1,5 +1,7 @@
 name: quiz_sana
 description: Quiz SaNa ITA (inofficiale) - app per prepararsi all'attestato di competenza SaNa (pesca, Svizzera).
+author: "Bruno Minotti (brunitika.ch)"
+date: "2026-09-29"
 publish_to: 'none'
 version: 1.0.0+1
 
