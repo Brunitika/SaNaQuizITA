@@ -1,10 +1,7 @@
 import 'dart:math';
 import 'models.dart';
 
-/// Un "giro" divide tutte le 150 domande in 3 simulazioni da 50 domande.
-/// Ogni giro usa una nuova suddivisione casuale (stratificata per sezione):
-/// completate le 3 simulazioni, tutte le domande sono state proposte
-/// esattamente una volta; poi si riparte con una suddivisione diversa.
+/// Un "giro" divide tutte le 150 domande in 3 simulazioni da 50 domande. Ogni giro usa una nuova suddivisione casuale (stratificata per sezione): completate le 3 simulazioni, tutte le domande sono state proposte esattamente una volta; poi si riparte con una suddivisione diversa.
 class Rotation {
   Rotation({required this.round, required this.exams, required this.used});
 
