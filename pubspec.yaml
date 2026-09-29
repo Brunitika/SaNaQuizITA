@@ -1,9 +1,7 @@
 name: quiz_sana
 description: Quiz SaNa ITA (inofficiale) - app per prepararsi all'attestato di competenza SaNa (pesca, Svizzera).
-author: "Bruno Minotti (brunitika.ch)"
-date: "2026-09-29"
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -17,9 +15,15 @@ dependencies:
 
 dev_dependencies:
   flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
 
 flutter:
   uses-material-design: true
   assets:
     - assets/data/questions.json
     - assets/images/
+    
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/launcher_icon.png"
